@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("Hello There mere dost");
+
+        System.out.println("Main hoon hero tera");
     }
 }
